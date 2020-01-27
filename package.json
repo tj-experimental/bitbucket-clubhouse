@@ -1,0 +1,18 @@
+{
+  "name": "bitbucket-clubhouse",
+  "version": "1.0.0",
+  "description": "Bitbucket Integration with Clubhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitbucket",
+    "clubhouse"
+  ],
+  "author": "Tonye Jack",
+  "license": "ISC",
+  "dependencies": {
+    "clubhouse-lib": "^0.10.0"
+  }
+}
